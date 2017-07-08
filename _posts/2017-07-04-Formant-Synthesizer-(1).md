@@ -3,6 +3,10 @@ layout: post
 title: Formant Synthesizer (1)
 author: Author Heming Wang
 ---
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 ## Introduction
 Synthesizers mainly fall into the following categories:
 + Articulary Synthesizer
@@ -34,9 +38,7 @@ View the vocal cord as a resonator, the sound souce will keep vibrating in the '
 
 ![Alt Text](../images/resonator.jpg)
 
- {% raw %}
   $$ y(nT) = Ax(nT) + By(nT-T) + Cy(nT-2T) $$ 
- {% endraw %}
 
 ## Implementation
 
