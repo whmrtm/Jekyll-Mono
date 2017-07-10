@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Formant Synthesizer (1)
-author: Author Heming Wang
+title: Formant Synthesizer (2)
+author: Author Heming
 ---
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
