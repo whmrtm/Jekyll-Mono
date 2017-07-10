@@ -39,9 +39,8 @@ View the vocal cord as a resonator, the sound souce will keep vibrating in the '
 ![Alt Text](../images/resonator.jpg)
 
   $$ y(nT) = Ax(nT) + By(nT-T) + Cy(nT-2T) $$ 
-
+It is easy to calculate that $C = -exp(-2\pi B W T)$,$B = 2exp(\pi B W T)$,$A = 1-A-B$
 ## Implementation
-
 
 The implementation is based on the classical paper of Klatt. The major steps are shown in the following figure
 
