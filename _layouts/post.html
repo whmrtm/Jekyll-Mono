@@ -14,3 +14,17 @@ layout: blog
   {% include disqus.html %}
 </article>
 
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: 'whmrtm',
+  repo: 'whmrtm.github.io',
+  oauth: {
+    client_id: 'e9f48dac704db330fa0b',
+    client_secret: 'c71ef55f42186f5ea26225bd5a168755bca45e2b',
+  },
+})
+gitment.render('container')
+</script>
