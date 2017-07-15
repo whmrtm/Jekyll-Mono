@@ -3,9 +3,6 @@ layout: post
 title: Formant Synthesizer (2)
 author: Author Heming
 ---
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 
 ## Implementation
@@ -38,3 +35,7 @@ Really simple to implement with the filter function in Matlab. If you just want 
 
 [VOSIM youtube](https://www.youtube.com/watch?v=eyjI_0o0zto)
 (thats how you make robot-like electronic music!)
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>

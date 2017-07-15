@@ -3,9 +3,6 @@ layout: post
 title: Formant Synthesizer (1)
 author: Author Heming
 ---
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 ## Introduction
 Synthesizers mainly fall into the following categories:
@@ -55,3 +52,7 @@ Details to be discussed in the next article.
 
 ## Source
 Klatt, Dennis H. "Software for a cascade/parallel formant synthesizer." the Journal of the Acoustical Society of America 67.3 (1980): 971-995.
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
