@@ -6,7 +6,6 @@ author: Author Heming
 
 
 ## Implementation
-
 Continued from last article. First generate voice source by some basic signals, like buzz signals, white noise, pink noise, triangular wave etc. By experiment, buzz signal has better performance, which makes sense because it is close to human glottal impulses. Then let the voice source passes through a low-pass filter before going into formant filters. Finally add a filter to simulate the radiation characteristics.
 
 Formant filters have two basic configurations: parrallel and cascade. The choice basically depends on audiable sound principle of the pronouciation.
