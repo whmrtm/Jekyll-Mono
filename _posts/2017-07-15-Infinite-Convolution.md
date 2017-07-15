@@ -26,3 +26,7 @@ Wikipedia provides a good example, and I cite them here
 ![alt](https://upload.wikimedia.org/wikipedia/commons/8/85/Central_limit_thm_4.png)
 
 Source: https://en.wikipedia.org/wiki/Illustration_of_the_central_limit_theorem
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
