@@ -4,7 +4,7 @@ title: Google Cloud Setup - VPS
 author: Author Heming
 ---
 
-Happen to heard of this $300 free quota Google Cloud for 1 year, just need to register with a credit card.
+Happen to hear this $300 free quota Google Cloud for 1 year, just need to register with a credit card.
 
 Link: [Google Cloud](https://cloud.google.com/)
 
@@ -14,10 +14,10 @@ So I registered and found that there are many functions here. A good thing of co
 
 Once you have the account, go into console. Then create a project in the "Compute Engine", and it is actually a virtual mathine that we need. Choose a valid zone that is appropriate for you( you can check the speed with ping or other tools)
 
-Then choose the Machine Type, pick GPU is you need to do Parallel Computing or Bitcoin mining. Not sure if bitcoin minining violates the rules of Google Cloud, but you can find it out yourself.
+Then choose the Machine Type, pick GPU if you need to do Parallel Computing or Bitcoin mining. Not sure if bitcoin minining violates the rules of Google Cloud, but you can find it out yourself.
 For a "GFW"-purposed vps, only need 1 shared CPU, and approxiametly 20 GB hard disk. Note that GPU price is more expersive than AWS. And if you need to do Deep learning onling, TPU of Google might be a better choice.
 
-System type can be anything you like, and Ubuntu 16.04 LTS might the most familiar one. (Also just a suggestion, centOS can be a good choice for cloud server).
+System type can be anything you like, and Ubuntu 16.04 LTS might be the most familiar one. (Also just a suggestion, centOS can be a good choice for cloud server).
 
 After all the setup, the cost of the vps can be checked at the "Price" in the hamburger menu. 
 
