@@ -19,19 +19,19 @@ The summation can be viewed as Riemann sum over the positive real line. Omitting
 
 $$ f(x) = \frac{1}{\pi} \int_0^{\infty} du \int_{-\infty}^{\infty} f(t) cos u(x-t) dt $$
 
- This is known as *Fourier's integral formula*.
+This is known as *Fourier's integral formula*.
 
- ## The Hilbert Transform
+## The Hilbert Transform
 
- Fourier integral formula may be considerd as limit y->0 of the following function of two real variables
+Fourier integral formula may be considerd as limit y->0 of the following function of two real variables
 
- $$ U(x,y) = \int_{0}^{\infty}[a(t)cos xt + b(t) sin xt] e^{-ty} dt $$
+$$ U(x,y) = \int_{0}^{\infty}[a(t)cos xt + b(t) sin xt] e^{-ty} dt $$
 
- This function is actually the real part of a complex valued function
+This function is actually the real part of a complex valued function
 
- $$  \phi(z) = \int_0^{\infty} [a(t) - ib(t)]e^{izt} dt $$
+$$  \phi(z) = \int_0^{\infty} [a(t) - ib(t)]e^{izt} dt $$
 
- It can be verified that the real part and the imaginary part satisfy Cauchy-Riemann condition. Also the function is analytic .
+It can be verified that the real part and the imaginary part satisfy Cauchy-Riemann condition. Also the function is analytic .
 
 lets call the imaginary part as g(x), and
 
