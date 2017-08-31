@@ -9,7 +9,7 @@ First of all, the data crawler is written in Python, which imports libraries lik
 
 There are 943 music volumes in Luoo now, and most of them have multiple music tags. The tag plot is drawn by seaborn as shown below:
 
-![Alt](../images/luoo_1.jpg)
+![Alt](../images/luoo_1.png)
 
 
 
