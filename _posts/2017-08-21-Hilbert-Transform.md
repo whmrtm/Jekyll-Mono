@@ -7,7 +7,7 @@ Hilbert Transform is a great tool for analyzing non-stationary time series. Four
 
 $$ f(x) = \frac{1}{2}a_0 + \sum_0^{\infty} a_n cos \frac{nx}{\lambda} + b_n sin \frac{n\pi}{\lambda}$$
 
-The coefficients can be ontained by multiplying both sides of equations with cos(mx/lambda) or sin(mx/lambda) and integrating over a period of interval.
+The coefficients can be obtained by multiplying both sides of equations with cos(mx/lambda) or sin(mx/lambda) and integrating over a period of interval.
 
 
 ## Rewrite the form
