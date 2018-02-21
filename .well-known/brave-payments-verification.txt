@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: whmrtm.github.io
+Token: 210ffa791742edfca82b0e78f8358c17cb4ffdc8dfd33945aba48064c86123f8

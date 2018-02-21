@@ -33,8 +33,3 @@ Pleased to have you visiting my little personal blog.
 * **Hannibal**
 
 
-
-
-## Contact me
-I’d love to hear from you　if you have constructive criticism regarding my post. Or if you just want to say hi or anything.
-[whmrtm@gmail.com](mailto:whmrtm@gmail.com)
