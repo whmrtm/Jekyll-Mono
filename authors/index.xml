@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Heming Wang</title>
+    <link>https://whmrtm.github.io/authors/</link>
+      <atom:link href="https://whmrtm.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://whmrtm.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://whmrtm.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://whmrtm.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://whmrtm.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;My name is Heming Wang, and I am currently a Ph.D. student in Computer Science and Engineering at the &lt;a href=&#34;https://www.osu.edu/&#34;&gt;Ohio State University&lt;/a&gt;, advised by &lt;a href=&#34;https://web.cse.ohio-state.edu/~wang.77/&#34;&gt;Prof. Deliang Wang&lt;/a&gt;. Before joining OSU, I received my master degree in Applied Mathematics from &lt;a href=&#34;https://uwaterloo.ca/&#34;&gt;Unibersity of Waterloo&lt;/a&gt;. My research interests focus on speech Enhancement, audio super-resolution and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
